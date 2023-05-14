@@ -1,0 +1,3 @@
+[submodule "AALTO-BSc-Thesis-XRL-Backend"]
+	path = AALTO-BSc-Thesis-XRL-Backend
+	url = git@github.com:aaron-r-campbell/AALTO-BSc-Thesis-XRL-Backend.git
